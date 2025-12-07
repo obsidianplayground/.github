@@ -1,1 +1,6 @@
-{}
+{
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showInlineTitle": false
+}
